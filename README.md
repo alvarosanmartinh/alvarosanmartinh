@@ -1,9 +1,5 @@
-![Banner](https://i.imgur.com/9X5j3Qh.png)
+**Developer**  
 
-# Hola, soy Álvaro San Martín Hellberg
-
-**Full Stack Developer** • +7 años de experiencia  
-Bilingüe | Apasionado por crear soluciones eficientes
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
