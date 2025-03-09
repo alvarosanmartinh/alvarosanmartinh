@@ -1,6 +1,15 @@
 ![Minimal Banner](https://via.placeholder.com/1200x200?text=Álvaro+San+Martín+Hellberg)
-
-# Álvaro San Martín Hellberg
+ 
+# Álvaro San Martín Hellberg 
+<a href="https://linkedin.com/in/sanmartinalvaro">
+    <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/alvarosanmartinh">
+    <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:alvaro.sanmartinh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 **Full Stack Developer** • +7 años de experiencia
 
 ## Sobre mí
@@ -75,18 +84,4 @@
 ### Cloud
 <p align="start">
   <img src="https://img.shields.io/badge/DigitalOcean-555555?style=flat-square&logo=digitalocean&logoColor=white" />
-</p>
-
----
-## Contacto
-<p align="start">
-  <a href="https://linkedin.com/in/sanmartinalvaro">
-    <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/alvarosanmartinh">
-    <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:alvaro.sanmartinh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
 </p>
