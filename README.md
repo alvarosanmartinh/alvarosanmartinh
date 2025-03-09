@@ -10,7 +10,7 @@
 
 ---
 ## Stack Principal
-<p align="center">
+<p align="start">
   <!-- Ejemplo de tecnologías más relevantes (destacadas con un color distinto) -->
   <img src="https://img.shields.io/badge/Java-4285F4?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square&logo=springboot&logoColor=white" />
@@ -27,14 +27,14 @@
 ## Otras Tecnologías
 <!-- Se mantiene el color gris #555555 para el resto -->
 ### Lenguajes
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/ActionScript_3-555555?style=flat-square&logo=adobeflash&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-555555?style=flat-square&logo=csharp&logoColor=white" />
 </p>
 
 ### Frameworks y Librerías
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Java_EE-555555?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-555555?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-555555?style=flat-square" />
@@ -52,13 +52,13 @@
 </p>
 
 ### Bases de Datos
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Oracle_11g-555555?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/ElasticSearch-555555?style=flat-square&logo=elastic&logoColor=white" />
 </p>
 
 ### Servidores Web
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Glassfish-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/Tomcat-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/JBoss%2FWildFly-555555?style=flat-square" />
@@ -66,20 +66,20 @@
 </p>
 
 ### CI/CD y Control de Versiones
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-555555?style=flat-square&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Bamboo-555555?style=flat-square&logo=atlassian&logoColor=white" />
 </p>
 
 ### Cloud
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/DigitalOcean-555555?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
 
 ---
 ## Contacto
-<p align="center">
+<p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro">
     <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
