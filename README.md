@@ -12,7 +12,6 @@ main_stack
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-336791?style=flat-square&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -35,6 +34,7 @@ frameworks_&_libs
   <img src="https://img.shields.io/badge/ElectronJS-777777?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-777777?style=flat-square&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Flex-777777?style=flat-square" />
+  <img src="https://img.shields.io/badge/React-777777?style=flat-square" />
 </p>
 
 databases
