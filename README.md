@@ -1,4 +1,4 @@
-# Álvaro San Martín Hellberg <span style="font-style: italic; font-size: 1rem;">#Developer</span>
+## Álvaro San Martín Hellberg <span style="font-style: italic; font-size: 1rem;">#Developer</span>
 
 <p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro">
@@ -8,7 +8,7 @@
   </a>
 </p>
 
-## Main Stack
+main_stack
 <p align="start">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
@@ -21,14 +21,14 @@
 </p>
 
 ---
-other languages
+other_languages
 <p align="start">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ActionScript_3-FF6600?style=flat-square&logo=adobe&logoColor=white" />
 </p>
 
-frameworks & libs
+frameworks_&_libs
 <p align="start">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -49,7 +49,7 @@ databases
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-ci cd
+ci_cd
 <p align="start">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
