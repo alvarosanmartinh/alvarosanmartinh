@@ -1,24 +1,41 @@
 ![Minimal Banner](https://via.placeholder.com/1200x200?text=Álvaro+San+Martín+Hellberg)
 
-**Full Stack Developer**
+# Álvaro San Martín Hellberg
+**Full Stack Developer** • +7 años de experiencia
+
+## Sobre mí
+- Bilingüe (Español/Inglés), con sólida experiencia en el ciclo completo de desarrollo de software.
+- Autodidacta, proactivo y orientado a resultados, capaz de trabajar bajo presión y en equipos ágiles.
+- Apasionado por crear soluciones escalables y de alta calidad, dominando principalmente **Java** y **Angular**.
 
 ---
-
-## Tecnologías
-
-### Lenguajes de Programación
-<p align="start">
-  <img src="https://img.shields.io/badge/Java" />
-  <img src="https://img.shields.io/badge/JavaScript" />
-  <img src="https://img.shields.io/badge/ActionScript3" />
-  <img src="https://img.shields.io/badge/PHP" />
-  <img src="https://img.shields.io/badge/C%23" />
+## Stack Principal
+<p align="center">
+  <!-- Ejemplo de tecnologías más relevantes (destacadas con un color distinto) -->
+  <img src="https://img.shields.io/badge/Java-4285F4?style=flat-square&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-4285F4?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/NodeJS-4285F4?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-4285F4?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-4285F4?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-4285F4?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4285F4?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4285F4?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-### Frameworks (Java)
-<p align="start">
-  <img src="https://img.shields.io/badge/Java%20Swing-555555?style=flat-square&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java%20EE-555555?style=flat-square&logo=java&logoColor=white" />
+---
+## Otras Tecnologías
+<!-- Se mantiene el color gris #555555 para el resto -->
+### Lenguajes
+<p align="center">
+  <img src="https://img.shields.io/badge/ActionScript_3-555555?style=flat-square&logo=adobeflash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-555555?style=flat-square&logo=csharp&logoColor=white" />
+</p>
+
+### Frameworks y Librerías
+<p align="center">
+  <img src="https://img.shields.io/badge/Java_EE-555555?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-555555?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/JPA-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/JSF-555555?style=flat-square" />
@@ -26,64 +43,50 @@
   <img src="https://img.shields.io/badge/JSP-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/JSTL-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/EJB-555555?style=flat-square" />
-  <img src="https://img.shields.io/badge/Spring-555555?style=flat-square&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-555555?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jasper%20Reports-555555?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jasper_Reports-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/JAX--WS-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/Maven-555555?style=flat-square&logo=apachemaven&logoColor=white" />
-</p>
-
-### Frameworks & Librerías (Frontend / Otras)
-<p align="start">
-  <img src="https://img.shields.io/badge/Angular-555555?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/ElectronJS-555555?style=flat-square&logo=electron&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-555555?style=flat-square&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-555555?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/NodeJS-555555?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Flex-555555?style=flat-square" />
 </p>
 
 ### Bases de Datos
-<p align="start">
-  <img src="https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%2011g-555555?style=flat-square&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-555555?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/DynamoDB-555555?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-555555?style=flat-square&logo=mongodb&logoColor=white" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle_11g-555555?style=flat-square&logo=oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/ElasticSearch-555555?style=flat-square&logo=elastic&logoColor=white" />
 </p>
 
 ### Servidores Web
-<p align="start">
+<p align="center">
   <img src="https://img.shields.io/badge/Glassfish-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/Tomcat-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/JBoss%2FWildFly-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/Weblogic-555555?style=flat-square" />
 </p>
 
-### Cloud
-<p align="start">
-  <img src="https://img.shields.io/badge/Azure-555555?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/GCP-555555?style=flat-square&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/DigitalOcean-555555?style=flat-square&logo=digitalocean&logoColor=white" />
-</p>
-
-### CI/CD
-<p align="start">
+### CI/CD y Control de Versiones
+<p align="center">
   <img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-555555?style=flat-square&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Bamboo-555555?style=flat-square&logo=atlassian&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-555555?style=flat-square&logo=jenkins&logoColor=white" />
+</p>
+
+### Cloud
+<p align="center">
+  <img src="https://img.shields.io/badge/DigitalOcean-555555?style=flat-square&logo=digitalocean&logoColor=white" />
 </p>
 
 ---
-
 ## Contacto
-<p align="start">
-  <a href="https://linkedin.com/in/sanmartinalvaro"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/alvarosanmartinh"><img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="mailto:alvaro.sanmartinh@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/sanmartinalvaro">
+    <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/alvarosanmartinh">
+    <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:alvaro.sanmartinh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
