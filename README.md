@@ -10,7 +10,6 @@
   </a>
 </p>
 <p align="start">
-  <!-- Ejemplo de tecnologías más relevantes (destacadas con un color distinto) -->
   <img src="https://img.shields.io/badge/Java-4285F4?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-4285F4?style=flat-square&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-4285F4?style=flat-square&logo=angular&logoColor=white" />
@@ -23,8 +22,6 @@
 </p>
 
 ---
-## Otras Tecnologías
-<!-- Se mantiene el color gris #555555 para el resto -->
 ### Lenguajes
 <p align="start">
   <img src="https://img.shields.io/badge/ActionScript_3-555555?style=flat-square&logo=adobeflash&logoColor=white" />
