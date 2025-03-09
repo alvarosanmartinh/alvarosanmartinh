@@ -1,5 +1,5 @@
 ¡Hola! Soy Álvaro San Martín, un desarrollador apasionado por la tecnología y la innovación. Actualmente, me especializo en el desarrollo de aplicaciones utilizando Java y tecnologías relacionadas.
-Estoy siempre abierto a nuevas oportunidades y colaboraciones, contacto:
+Hablemos:
 <p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
