@@ -1,13 +1,12 @@
 ![Minimal Banner](https://via.placeholder.com/1200x200?text=Álvaro+San+Martín+Hellberg)
  
-# Álvaro San Martín Hellberg 
+<p style="font-size: x-large;">Álvaro San Martín Hellberg</p> <p style="font-style: italic;">#DEV</p>
 <a href="https://linkedin.com/in/sanmartinalvaro">
     <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alvaro.sanmartinh@gmail.com">
     <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-**Full Stack Developer**
 
 ## Sobre mí
 - Bilingüe (Español/Inglés), con sólida experiencia en el ciclo completo de desarrollo de software.
