@@ -1,5 +1,3 @@
-**Developer**  
-
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
@@ -11,7 +9,7 @@
 
 ## 📫 Contacto
 
-<div align="center">
+<div align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin" alt="LinkedIn"/>
   </a>
