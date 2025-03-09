@@ -1,6 +1,6 @@
-<p align="start">
+<h1 align="start">
   Álvaro San Martín Hellberg <span style="font-style: italic; font-size: 1rem;">#Developer</span>
-</p>
+</h1>
 
 <p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro">
