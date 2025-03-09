@@ -20,13 +20,13 @@
 </p>
 
 ---
-# Also
 ## Languages
 <p align="start">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/ActionScript_3-FF6600?style=flat-square&logo=adobe&logoColor=white" />
 </p>
+
 ## Frameworks/Libs
 <p align="start">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
@@ -37,6 +37,7 @@
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Flex-007396?style=flat-square" />
 </p>
+
 ## Databases
 <p align="start">
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -47,6 +48,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
+
 ## CI CD
 <p align="start">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -55,6 +57,7 @@
   <img src="https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=atlassian&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" />
 </p>
+
 ## Cloud
 <p align="start">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
