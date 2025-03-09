@@ -1,5 +1,5 @@
 <h1 align="left">
-  Álvaro San Martín Hellberg <span style="font-size: 1rem; font-style: italic;">#DEV</span>
+  Álvaro San Martín Hellberg <span style="font-style: italic;">#DEV</span>
 </h1>
 
 <p align="start">
