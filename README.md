@@ -4,13 +4,10 @@
 <a href="https://linkedin.com/in/sanmartinalvaro">
     <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/alvarosanmartinh">
-    <img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="mailto:alvaro.sanmartinh@gmail.com">
     <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-**Full Stack Developer** • +7 años de experiencia
+**Full Stack Developer**
 
 ## Sobre mí
 - Bilingüe (Español/Inglés), con sólida experiencia en el ciclo completo de desarrollo de software.
