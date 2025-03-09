@@ -1,5 +1,5 @@
 <h1 align="left">
-  alvaro_San_Martín_Hellberg<span style="font-style: italic;">#developer</span>
+  álvaro<span style="font-style: italic;">#developer</span>
 </h1>
 
 <p align="start">
