@@ -1,4 +1,4 @@
-## Álvaro San Martín Hellberg <span style="font-style: italic; font-size: 1rem;">#Developer</span>
+## Álvaro San Martín - Developer
 
 <p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro">
