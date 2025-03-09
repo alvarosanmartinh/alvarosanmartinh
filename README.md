@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
-## Stack Principal
 <p align="start">
   <!-- Ejemplo de tecnologías más relevantes (destacadas con un color distinto) -->
   <img src="https://img.shields.io/badge/Java-4285F4?style=flat-square&logo=java&logoColor=white" />
