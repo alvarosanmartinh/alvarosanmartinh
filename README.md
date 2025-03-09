@@ -1,14 +1,13 @@
 ![Minimal Banner](https://via.placeholder.com/1200x200?text=Álvaro+San+Martín+Hellberg)
 
-# Álvaro San Martín Hellberg
-**Full Stack Developer** • +7 años de experiencia
+**Full Stack Developer**
 
 ---
 
 ## Tecnologías
 
 ### Lenguajes de Programación
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Java-555555?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white" />
   <img src="https://img.shields.io/badge/ActionScript3-555555?style=flat-square&logo=adobeflash&logoColor=white" />
@@ -17,7 +16,7 @@
 </p>
 
 ### Frameworks (Java)
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Java%20Swing-555555?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Java%20EE-555555?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-555555?style=flat-square&logo=hibernate&logoColor=white" />
@@ -35,7 +34,7 @@
 </p>
 
 ### Frameworks & Librerías (Frontend / Otras)
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Angular-555555?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/ElectronJS-555555?style=flat-square&logo=electron&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white" />
@@ -46,7 +45,7 @@
 </p>
 
 ### Bases de Datos
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Oracle%2011g-555555?style=flat-square&logo=oracle&logoColor=white" />
@@ -57,7 +56,7 @@
 </p>
 
 ### Servidores Web
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Glassfish-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/Tomcat-555555?style=flat-square" />
   <img src="https://img.shields.io/badge/JBoss%2FWildFly-555555?style=flat-square" />
@@ -65,7 +64,7 @@
 </p>
 
 ### Cloud
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Azure-555555?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-555555?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-555555?style=flat-square&logo=googlecloud&logoColor=white" />
@@ -73,7 +72,7 @@
 </p>
 
 ### CI/CD
-<p align="center">
+<p align="start">
   <img src="https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-555555?style=flat-square&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/Bamboo-555555?style=flat-square&logo=atlassian&logoColor=white" />
@@ -83,7 +82,7 @@
 ---
 
 ## Contacto
-<p align="center">
+<p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro"><img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/alvarosanmartinh"><img src="https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="mailto:alvaro.sanmartinh@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" /></a>
