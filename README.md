@@ -9,7 +9,7 @@
 ## 🚀 Tecnologías
 
 ### Lenguajes de Programación
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/ActionScript_3-FF6600?logo=adobe&logoColor=white" alt="ActionScript 3" />
@@ -18,7 +18,7 @@
 </div>
 
 ### Frameworks y Librerías (Java)
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/Java_Swing-007396?logo=java&logoColor=white" alt="Java Swing" />
   <img src="https://img.shields.io/badge/JavaEE-6DB33F?logo=java&logoColor=white" alt="Java EE" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" alt="Hibernate" />
@@ -36,7 +36,7 @@
 </div>
 
 ### Frontend y Otras Tecnologías
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/Electron_JS-47848F?logo=electron&logoColor=white" alt="Electron JS" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -47,7 +47,7 @@
 </div>
 
 ### Bases de Datos
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Oracle_11g-FF0000?logo=oracle&logoColor=white" alt="Oracle 11g" />
@@ -58,7 +58,7 @@
 </div>
 
 ### Servidores Web
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/GlassFish-007396?logo=glassfish&logoColor=white" alt="GlassFish" />
   <img src="https://img.shields.io/badge/Tomcat-F8DC75?logo=apachetomcat&logoColor=white" alt="Tomcat" />
   <img src="https://img.shields.io/badge/WildFly-7A1FA2?logo=wildfly&logoColor=white" alt="JBoss/WildFly" />
@@ -66,7 +66,7 @@
 </div>
 
 ### Cloud
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud" />
@@ -74,7 +74,7 @@
 </div>
 
 ### CI/CD y Control de Versiones
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Bitbucket-205081?logo=bitbucket&logoColor=white" alt="Bitbucket" />
   <img src="https://img.shields.io/badge/Bamboo-003366?logo=atlassian&logoColor=white" alt="Bamboo" />
