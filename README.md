@@ -8,11 +8,11 @@
 
 ### Lenguajes de Programación
 <p align="start">
-  <img src="https://img.shields.io/badge/Java?style=flat-square&logo=java" />
-  <img src="https://img.shields.io/badge/JavaScript?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/ActionScript3?style=flat-square&logo=adobeflash" />
-  <img src="https://img.shields.io/badge/PHP?style=flat-square&logo=php" />
-  <img src="https://img.shields.io/badge/C%23?style=flat-square&logo=csharp" />
+  <img src="https://img.shields.io/badge/Java" />
+  <img src="https://img.shields.io/badge/JavaScript" />
+  <img src="https://img.shields.io/badge/ActionScript3" />
+  <img src="https://img.shields.io/badge/PHP" />
+  <img src="https://img.shields.io/badge/C%23" />
 </p>
 
 ### Frameworks (Java)
