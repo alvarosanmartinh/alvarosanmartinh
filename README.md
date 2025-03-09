@@ -23,7 +23,7 @@
 </p>
 
 ---
-## Other technlogies
+## Other
 <p align="start">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
