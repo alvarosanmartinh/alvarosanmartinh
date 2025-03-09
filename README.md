@@ -1,4 +1,4 @@
-## Álvaro San Martín - Developer
+¡Hola! Soy Álvaro San Martín, un desarrollador apasionado por la tecnología y la innovación. Actualmente, me especializo en el desarrollo de aplicaciones utilizando Java y tecnologías relacionadas.
 
 <p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro">
