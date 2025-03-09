@@ -10,11 +10,6 @@
   </a>
 </p>
 
-## Sobre mí
-- Bilingüe (Español/Inglés), con sólida experiencia en el ciclo completo de desarrollo de software.
-- Autodidacta, proactivo y orientado a resultados, capaz de trabajar bajo presión y en equipos ágiles.
-- Apasionado por crear soluciones escalables y de alta calidad, dominando principalmente **Java** y **Angular**.
-
 ---
 ## Stack Principal
 <p align="start">
