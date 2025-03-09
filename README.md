@@ -28,7 +28,7 @@ other languages
   <img src="https://img.shields.io/badge/ActionScript_3-FF6600?style=flat-square&logo=adobe&logoColor=white" />
 </p>
 
-frameworks/Libs
+frameworks & libs
 <p align="start">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -49,7 +49,7 @@ databases
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
 </p>
 
-cI CD
+ci cd
 <p align="start">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
