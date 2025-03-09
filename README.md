@@ -1,9 +1,14 @@
-# Álvaro San Martín Hellberg  
-*#DEV*  
+<h1 align="left">
+  Álvaro San Martín Hellberg <span style="font-size: 1rem; font-style: italic;">#DEV</span>
+</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanmartinalvaro)  
-[![Email](https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white)](mailto:alvaro.sanmartinh@gmail.com)
-
+<p align="start">
+  <a href="https://linkedin.com/in/sanmartinalvaro">
+    <img src="https://img.shields.io/badge/LinkedIn-555555?style=flat-square&logo=linkedin" /></a>
+  <a href="mailto:alvaro.sanmartinh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ## Sobre mí
 - Bilingüe (Español/Inglés), con sólida experiencia en el ciclo completo de desarrollo de software.
