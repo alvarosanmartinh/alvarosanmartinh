@@ -24,6 +24,7 @@
 </p>
 
 ---
+## Otras
 <p align="start">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
