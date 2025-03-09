@@ -1,6 +1,4 @@
-<h1 align="start">
-  Álvaro San Martín Hellberg <span style="font-style: italic; font-size: 1rem;">#Developer</span>
-</h1>
+# Álvaro San Martín Hellberg <span style="font-style: italic; font-size: 1rem;">#Developer</span>
 
 <p align="start">
   <a href="https://linkedin.com/in/sanmartinalvaro">
@@ -10,7 +8,6 @@
   </a>
 </p>
 
----
 ## Main Stack
 <p align="start">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
